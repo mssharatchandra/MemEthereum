@@ -3,7 +3,7 @@
 
 Made with ❤ by **Chronical Coders**  
 
-A web app that uses Etherium (Cryptocurrency) based smart contracts for posting memes.
+A web app that uses smart contracts for monetizing memes by enabling cryptocurrency tipping
 
 > Won 2nd prize in Hack Revolution 2022(by CSI and E-Cell,MJCET)
 >> Team Mates :  
