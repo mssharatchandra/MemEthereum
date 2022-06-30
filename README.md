@@ -7,9 +7,10 @@ A web app that uses smart contracts for monetizing memes by enabling cryptocurre
 
 > Won 2nd prize in Hack Revolution 2022(by CSI and E-Cell,MJCET)
 >> Team Mates :  
->>||  Hima Satwika Katragadda  ||
+>>
 >>Krishna Priya VS Garimala  ||
 >>Sharat Chandra Manchi Sarapu  ||
+>>||  Hima Satwika Katragadda  ||
 
 > // google drive link for certificates
 
